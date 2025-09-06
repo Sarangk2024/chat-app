@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sarangk2024/chat-app/static/css/main.021c72ce.css",
+    "main.js": "/Sarangk2024/chat-app/static/js/main.6d041009.js",
+    "static/js/453.7c337e16.chunk.js": "/Sarangk2024/chat-app/static/js/453.7c337e16.chunk.js",
+    "index.html": "/Sarangk2024/chat-app/index.html",
+    "main.021c72ce.css.map": "/Sarangk2024/chat-app/static/css/main.021c72ce.css.map",
+    "main.6d041009.js.map": "/Sarangk2024/chat-app/static/js/main.6d041009.js.map",
+    "453.7c337e16.chunk.js.map": "/Sarangk2024/chat-app/static/js/453.7c337e16.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.021c72ce.css",
+    "static/js/main.6d041009.js"
+  ]
+}
